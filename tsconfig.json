@@ -9,9 +9,7 @@
       "~/*": ["./src/*"]
     },
 
-    "resolveJsonModule": true,
-    "incremental": true,
-    "maxNodeModuleJsDepth": 1
+    "resolveJsonModule": true
   },
 
   "include": ["./**/*"]
