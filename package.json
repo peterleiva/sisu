@@ -39,7 +39,7 @@
     "cli-progress": "^3.10.0",
     "csv-parse": "^5.0.4",
     "dotenv": "^16.0.0",
-    "mongoose": "^6.2.1",
+    "mongoose": "^6.11.3",
     "node-environment": "^0.5.1"
   },
   "devDependencies": {
